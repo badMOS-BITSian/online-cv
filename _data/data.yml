@@ -14,13 +14,13 @@ sidebar:
     # Sidebar links
     email: h20221400148@hyderabad.bits-pilani.ac.in
     phone: 8939018382
-    timezone: Indian Timezone
-    citizenship: Indian
-    website: blog.webjeda.com #do not add http://
+    #timezone: Indian Timezone
+    #citizenship: Indian
+    #website: blog.webjeda.com #do not add http://
     linkedin: 
-    xing: alandoe
+    #xing: alandoe
     github: badMOS-BITSian
-    telegram: # add your nickname without '@' sign
+    telegram: 
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -32,14 +32,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Hindi
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+       # - idiom: Spanish
+        #  level: Professional
 
     interests:
       title: Interests
