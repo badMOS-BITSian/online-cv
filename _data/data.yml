@@ -82,22 +82,11 @@ experiences:
         time: April, 2022 - August, 2022
         company: Neuranics Lab, New Delhi
         details: |
-        
+          Worked as intern in a biomedical startup to develop application specific codes for 
+          interfacing stepper motors, rotary encoders, LED drivers, etc. using raspberry Pi 
+          and Arduino. Used STM32 for various projects related to sending and receiving data 
+          from different peripherals. 
           
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-         
             - Bullet point
             - Bullet point
 projects:
@@ -109,21 +98,21 @@ projects:
         link: "#hook"
         tagline: "Designed a 5-stage pipelined RISC-V processor in Verilog HDL with fetch, decode, execute, memory read/write and writeback operations."
 
-      - title: DevStudio
+      - title: Implementation of Cache Controller unit
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Designed and implemented code for Direct Mapped Cache Memory Controller using Verilog HDL."
 
-      - title: Tempo
+      - title: Implementation of Synchronous FIFO Buffer
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Implemented Synchronous FIFO in Verilog HDL. It can hold 8-bit data at 64 locations. Potential signals include empty, full, overflow and underflow."
 
-      - title: Atom
+      - title: Frequency measurement using STM32
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Used STM32 based on ARM Cortex-M4 to measure frequency of square wave signals generated through waveform generator. Peripherals utilised being timer, counter, interrupt, UART and GPIOs."
 
-      - title: Delta
+      - title: Development of Peripheral Library for ARM Cortex-M4
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Wrote library files for GPIO, SPI, I2C and UART peripherals of Cortex-M4 and tested their working by simple user applications. "
 
 oss:
     title: OSS Contributions
