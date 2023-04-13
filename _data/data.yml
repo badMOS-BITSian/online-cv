@@ -59,7 +59,7 @@ career-profile:
       
       Second paragraph if required.
 
-education:
+education: 
     title: Education
     info:
       - degree: M.E. in VLSI & Embedded Systems
@@ -69,6 +69,7 @@ education:
           
             - Bullet point
             - Bullet point
+
       - degree: B.Tech in Electrical & Electronics Engineering
         university: SRM IST
         time: 2017 - 2021
@@ -88,8 +89,8 @@ experiences:
           and Arduino. Used STM32 for various projects related to sending and receiving data 
           from different peripherals. 
           
-            - Bullet point
-            - Bullet point
+            - Developed firmware for DUET-2 Wifi Board
+            - Interfaced various modules from Ananlog Devices, Texas Instruments & Digilent 
 projects:
     title: Projects
     intro: >
