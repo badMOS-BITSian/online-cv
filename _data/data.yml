@@ -44,13 +44,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Football
+        - item: Playing football
           link:
 
         - item: Drawing
           link:
 
-        - item: Singing
+        - item: Dancing & singing 
           link:
 
 career-profile:
@@ -58,6 +58,7 @@ career-profile:
     summary: |
       
       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -114,7 +115,7 @@ projects:
         link: "#"
         tagline: "Wrote library files for GPIO, SPI, I2C and UART peripherals of Cortex-M4 and tested their working by simple user applications. "
 
-oss:
+#oss:
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -133,7 +134,7 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -160,16 +161,16 @@ skills:
 
     toolset:
       - name: Verilog HDL
-        level: 90%
+        level: 95%
 
       - name: Cadence Virtuoso
         level: 70%
 
       - name: C/ Embedded C
-        level: 80%
+        level: 95%
 
       - name: NI Microwind
-        level: 50%
+        level: 60%
 
       - name: STM32CubeIDE
         level: 95%
