@@ -102,13 +102,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
+      - title: Implementation of 5-stage pipelined RISC-V processor  
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Designed a 5-stage pipelined RISC-V processor in Verilog HDL with fetch, decode, execute, memory read/write and writeback operations."
 
       - title: DevStudio
         link: "#"
