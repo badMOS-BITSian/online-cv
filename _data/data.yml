@@ -195,22 +195,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Verilog HDL
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Cadence Virtuoso
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: C/ Embedded C
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: NI Microwind
+        level: 50%
+
+      - name: STM32CubeIDE
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
 footer: >
