@@ -162,22 +162,25 @@ skills:
 
     toolset:
       - name: Verilog HDL
-        level: 95%
+        level: 100%
 
       - name: Cadence Virtuoso
         level: 70%
 
       - name: C/ Embedded C
-        level: 95%
+        level: 100%
 
       - name: NI Microwind
-        level: 60%
+        level: 50%
 
       - name: STM32CubeIDE
-        level: 95%
+        level: 100%
 
       - name: Photoshop
-        level: 60%
+        level: 90%
+
+      - name: Web Development
+        level: 50%
 
 footer: >
     Designed by Aditya Singh</a>
