@@ -17,7 +17,7 @@ sidebar:
     #timezone: Indian Timezone
     #citizenship: Indian
     #website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/aditya-singh-473261176
+    linkedin: https://www.linkedin.com/in/aditya-singh-473261176
     #xing: alandoe
     github: badMOS-BITSian
     #whats app: 9711683156
@@ -33,10 +33,10 @@ sidebar:
       title: Languages
       info:
         - idiom: Hindi
-          
+          level: Native
 
         - idiom: English
-        
+          level: Proficient
 
        # - idiom: Spanish
         #  level: Professional
