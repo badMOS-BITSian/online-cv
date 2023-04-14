@@ -56,8 +56,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      
-      Second paragraph if required.
+      I am a passionate electronics engineer with strong interest in processor architecture
+      and design. Currently, I am studying VLSI Design and Embedded Systems at BITS Pialni, Hyderabad
+      Campus. With academic knowledge of coursework and projects based on VLSI Design, 
+      VLSI Architecture, Reconfigurable Computing and Embedded Systems, I have a few 
+      months of professional eperience as embedded software intern. 
 
 education: 
     title: Education
@@ -67,16 +70,11 @@ education:
         time: 2022-2024
         details: |
           
-            - Bullet point
-            - Bullet point
-
       - degree: B.Tech in Electrical & Electronics Engineering
         university: SRM IST
         time: 2017 - 2021
         details: |
-          
-            - Bullet point
-            - Bullet point
+        
 experiences:
     title: Experiences
     info:
